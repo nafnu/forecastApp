@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weatherPart</string>
+    <string name="choose_the_location">Choose the location</string>
+    <string name="choose_the_city">CHOOSE THE CITY</string>
+    <string name="dublin_forecast">Dublin Forecast</string>
+    <string name="paris_forecast">Paris forecast</string>
+
+</resources>
